@@ -12,7 +12,7 @@
     "task",
     "resqueue"
   ],
-  "repository": "hunterloftis/jackrabbit",
+  "repository": "https://github.com/uleecsei/jackrabbit#",
   "homepage": "https://github.com/hunterloftis/jackrabbit",
   "bugs": "https://github.com/hunterloftis/jackrabbit/issues",
   "main": "lib/jackrabbit.js",
